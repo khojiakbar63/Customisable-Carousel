@@ -1,0 +1,12 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+}
+
+.title {
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 700;
+  margin-bottom: 10rem;
+  color: indigo;
+}
